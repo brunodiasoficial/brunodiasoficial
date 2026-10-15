@@ -4,8 +4,6 @@
 
 Olá! Me chamo **Bruno Dias** e sou apaixonado por tecnologia, desenvolvimento de software e automação de processos.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** na **Faculdade São Francisco de Assis**, com previsão de conclusão em **2028**.
-
 Desenvolvo aplicações web, APIs, aplicativos Android, sistemas de gestão, integrações com Inteligência Artificial e infraestrutura em servidores Linux. Tenho experiência em todo o ciclo de desenvolvimento, desde a modelagem do banco de dados até a implantação e manutenção em produção.
 
 Sou criador de projetos próprios, como o **NexPedido, Kris Crediário, Kris Sistemas e Sistema Óticas Cristóvão**, e desenvolvo soluções para empresas dos segmentos de gestão, ópticas, delivery, turismo e atendimento ao cliente, sempre buscando automatizar processos e melhorar a experiência dos usuários.
